@@ -14,7 +14,7 @@ The system also includes a dedicated **Admin/Doctor dashboard** for managing doc
 
 ### 🛠️ Admin / Doctor Panel
 
-🔗 [https://doctor-appointment-booking-sysytem-1-admin.onrender.com](https://doctor-appointment-booking-sysytem-1-admin.onrender.com)
+🔗 [https://doctor-appointment-booking-sysytem-1-admin.onrender.com]([https://doctor-appointment-booking-sysytem-1-admin.onrender.com](https://doctor-appointment-booking-sysytem-1-x5oy.onrender.com/))
 
 ### ⚙️ Backend API
 
