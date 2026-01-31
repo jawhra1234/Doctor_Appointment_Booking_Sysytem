@@ -10,7 +10,7 @@ The system also includes a dedicated **Admin/Doctor dashboard** for managing doc
 
 ### 👤 Patient Frontend
 
-🔗 [https://doctor-appointment-booking-sysytem-1-x5oy.onrender.com]([https://doctor-appointment-booking-sysytem-1-x5oy.onrender.com](https://doctor-appointment-booking-sysytem-1.onrender.com/))
+🔗 https://doctor-appointment-booking-sysytem-1.onrender.com/
 
 ### 🛠️ Admin / Doctor Panel
 
